@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Annaakemy
 - 👀 I’m interested in aprender 
   
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning alura 
 - 💞️ sejam bem vindos
 - 
 
