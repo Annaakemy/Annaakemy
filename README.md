@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Annaakemy
-- 👀 I’m interested in
--  ...
+- 👀 I’m interested in aprender 
+  
 - 🌱 I’m currently learning ...
 - 💞️ sejam bem vindos
 - 
